@@ -1,5 +1,3 @@
-# project-DHWANI
-Indigenous multi-terrain acoustic monitoring research platform integrating distributed sensing, edge AI, signal processing and environmental intelligence.
 
 # PROJECT DHWANI 2.4
 ### The Panchatattva Acoustic Defence Grid
